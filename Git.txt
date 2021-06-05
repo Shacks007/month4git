@@ -1,0 +1,5 @@
+Hello this is my assignment 1 of git course
+Shardul Doke
+shardul.doke17@siesgst.ac.in
+Month 4
+Bye :)
