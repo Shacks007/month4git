@@ -4,4 +4,5 @@ line 2
 line 3
 line 4
 This line was added in main branch
+This line is added in second branch
 
